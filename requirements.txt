@@ -1,0 +1,7 @@
+fastapi
+uvicorn[standard]
+pydantic
+python-multipart
+requests
+pyaudio
+whisper @ git+https://github.com/openai/whisper.git
